@@ -8,7 +8,7 @@ void main() {
     float x, y, x1, y1, x2, y2, dx, dy, e;
     int i, gd, gm;
     
-    clrscr();
+    clrscr()n
 
     printf("Enter the value of x1: ");
     scanf("%f", &x1);
