@@ -1,3 +1,4 @@
+//mid point circle 
 #include <stdio.h>
 #include <graphics.h>
 #include <conio.h>
@@ -43,12 +44,12 @@ void midPointCircleDraw(int x_centre, int y_centre, int r) {
 
 int main() { 
     int gd = DETECT, gm;
-    initgraph(&gd, &gm, "C:\\TURBOC3\\BGI");  // Ensure the path is correct
+    initgraph(&gd, &gm, "C:\\TURBOC3\\BGI");  
 
-    midPointCircleDraw(200, 200, 50); // Center at (200, 200) with radius 50
+    midPointCircleDraw(200, 200, 50); 
 
-    getch();  // Wait for a key press before closing
-    closegraph();  // Close the graphics window
+    getch();  
+    closegraph();  
     return 0;
 }
 
