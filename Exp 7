@@ -1,4 +1,5 @@
-This code implements the Cohen-Sutherland line clipping algorithm, used to clip a line within a rectangular window, where only the visible part of the line is drawn. I’ll correct some issues and improve the structure for clarity and proper execution in Turbo C.
+This code implements the Cohen-Sutherland line clipping algorithm, used to clip a line within a rectangular window, where only the visible part of the line is drawn. I’ll correct some 
+issues and improve the structure for clarity and proper execution in Turbo C.
 
 ### Corrected Code:
 
