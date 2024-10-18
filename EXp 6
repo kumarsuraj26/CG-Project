@@ -1,4 +1,5 @@
-This code is intended to perform various 2D geometric transformations (translation, rotation, scaling, and rotation about an arbitrary point) on a shape using the graphics.h library in Turbo C. However, there are a few issues and missing parts, so I’ll correct and complete the code and provide an explanation.
+This code is intended to perform various 2D geometric transformations (translation, rotation, scaling, and rotation about an arbitrary point) on a shape using the graphics.h library in Turbo C.
+However, there are a few issues and missing parts, so I’ll correct and complete the code and provide an explanation.
 
 ### Corrected Code:
 
