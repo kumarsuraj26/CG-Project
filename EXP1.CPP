@@ -3,6 +3,7 @@
 #include <graphics.h>
 #include <math.h>
 #include <stdlib.h>
+#include <dos.h>
 #include <conio.h>  // For kbhit() and getch()
 
 int main() {
