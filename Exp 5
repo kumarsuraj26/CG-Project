@@ -55,7 +55,8 @@ void main()
 
 3. *Graphics Initialization:*
    - int gd = DETECT, gm;: gd and gm are variables that store the graphics driver and mode. DETECT is a macro that tells Turbo C to automatically detect the graphics driver.
-   - initgraph(&gd, &gm, "C:\\TURBOC3\\BGI");: Initializes the graphics mode. You must specify the path where your BGI (Borland Graphics Interface) drivers are located. For Turbo C, the default location is "C:\\TURBOC3\\BGI".
+   - initgraph(&gd, &gm, "C:\\TURBOC3\\BGI");: Initializes the graphics mode. You must specify the path where your BGI (Borland Graphics Interface) drivers are located. For Turbo C, the default
+location is "C:\\TURBOC3\\BGI".
 
 4. *Drawing the Shape:*
    - putpixel(100 + j, 200 + i, WHITE);: This function draws a pixel on the screen. It places a pixel at position (100 + j, 200 + i) with the color WHITE. 
