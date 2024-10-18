@@ -19,7 +19,7 @@ void midPointCircleDraw(int x_centre, int y_centre, int r) {
         y++; 
 
         if (P <= 0) 
-            P = P + 2 * y + 1; 
+            P = P + 2 * y + 1n 
         else { 
             x--; 
             P = P + 2 * y - 2 * x + 1; 
